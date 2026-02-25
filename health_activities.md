@@ -1,0 +1,12 @@
+| Activity | Date |
+|----------|------|
+| [Fakültemiz Gıda Mühendisliği bölümünde Prof. Dr. Münir ANIL'ın vermiş olduğu Tahıl Teknolojisi dersi kapsamında öğrencilerimiz ile birlikte 'Tahıl Partisi' düzenlenmiştir.](https://gida-muhendislik.omu.edu.tr/tr/haberler/tahl-partisi) | 25.12.2025 |
+| [Fakültemiz Gıda Mühendisliği bölümünde Dr. Öğr. Üyesi Latife Betül GÜL tarafından 'Çelik Mataram Elimde Sağlıklı Suyum Midemde' adlı etkinlik düzenlenmiştir.](https://gida-muhendislik.omu.edu.tr/tr/haberler/celik-mataram-elimde-saglkl-suyum-midemde-etkinligi) | 04.12.2025 |
+| [Fakültemiz Elektrik ve Elektronik Mühendisliği bölümünde "Dijital Diş Hekimliğinde 3B Baskı Teknolojileri ile Yerli Daimi Kron Reçinesi Geliştirilmesi"](https://www.omu.edu.tr/en/node/19298) | 29.07.2025 |
+| [Fakültemiz Gıda Mühendisliği bölümünde Dr. Öğretim Üyesi Mustafa EVREN'in vermiş olduğu Asitli Fermente Gıdalar dersi kapsamında öğrencilerimiz ile birlikte 'Turşu Partisi' düzenlenmiştir.](https://gida-muhendislik.omu.edu.tr/tr/haberler/tursu-partisi) | 27.05.2025 |
+| [Fakültemiz Gıda Mühendisliği bölümünde Dünya Çölyak Günü 'TRT Hayatın İçinde Programı' na Prof. Dr. Münir ANIL konuşmacı olarak katılmıştır.](https://gida-muhendislik.omu.edu.tr/tr/haberler/dunya-colyak-haftastrt-hayatn-icinden-program) | 13.05.2025 |
+| [Fakültemiz Harita Mühendisliği bölümünde Mezunlarla Buluşma Etkinliği kapsamında İş Sağlığı ve Güvenliği konulu sunum gerçekleştirildi.](https://hrt-muhendislik.omu.edu.tr/tr/haberler/harita-muhendisliginde-is-saglg-ve-guvenligi-gerceklestirildi) | 07.05.2025 |
+| [Fakültemiz Gıda Mühendisliği bölümünde 'TUBİTAK 4007 Bilim Şenlikleri Destekleme Programı' düzenlenmiştir.](https://gida-muhendislik.omu.edu.tr/tr/etkinlikler/tubitak4007-bilim-senlikleri-destekleme-program) | 16.04.2025 |
+| [Fakültemiz Elektrik ve Elektronik Mühendisliği bölümünde "Uzaktan Hasta İzlemi için Ölçeklenebilir ve Esnek Sistem Geliştirilmesi ve Değerlendirilmesi"](https://www.omu.edu.tr/en/node/15151) | 13.03.2024 |
+| [Fakültemiz Elektrik ve Elektronik Mühendisliği bölümünde "Myoelektrik Denetimli Üst Uzuv Protez Prototipi Tasarımı ve İmalatı"](https://www.omu.edu.tr/tr/icerik/haber/tusebden-omu-akademisyenlerine-2-milyon-500-bin-tl-butceli-proje-destegi) | 16.11.2023 |
+| [Fakültemiz Elektrik ve Elektronik Mühendisliği bölümünde "Konjestif Kalp Yetmezliğini Yönetmede Uzaktan Hasta İzleminin Etkinliğinin Orta Ölçekli Popülasyonda Araştırılması"](https://www.omu.edu.tr/tr/icerik/haber/tusebden-omu-akademisyenlerine-791-bin-tl-butceli-proje-destegi) | 25.12.2022 |
